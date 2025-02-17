@@ -4,8 +4,9 @@ This repository contains solutions to various competitive programming problems I
 Each file contains my solution code and link of the problem from where it is taken.
 
 Example File:
- ONLINE_JUDGES.PROBLEM_NAME.cpp
+ X.ONLINE_JUDGES.PROBLEM_NAME.cpp
 
+X is no. of problem solved just keep order and check of questions.
 ONLINE_JUDGES refer to platform name
 - CF (Codeforces)
 - AC (AtCoder)
