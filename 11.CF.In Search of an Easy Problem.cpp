@@ -1,3 +1,5 @@
+//Problem Link: https://codeforces.com/problemset/problem/1030/A
+
 /**
 *	Author: Sourav Sharma (@Sneaky_Typer)
 *	Go for Gold.
