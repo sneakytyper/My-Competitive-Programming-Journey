@@ -19,13 +19,10 @@ I generally participate contest on Codeforces, AtCoder and Codechef
 - I have made separate folders for each of the online judges i use.
 - Each will contain separate folders of problem I solved under a contest.
 
-Example File:
- X.ONLINE_JUDGES.PROBLEM_NAME.cpp
-
-X is no. of problem solved just keep order and check of questions.
-ONLINE_JUDGES refer to platform name
+Short notation
 - CF (Codeforces)
 - AC (AtCoder)
 - CC (CodeChef)
 
+I'll make separate folders if I solve any question of differnt contest or events
 
